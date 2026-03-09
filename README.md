@@ -1,16 +1,16 @@
-# 👕 Fashion-MNIST Image Classification using VGG16
+#  Fashion-MNIST Image Classification using VGG16
 
 <p align="center">
 Deep Learning • Transfer Learning • PyTorch • Computer Vision
 </p>
 
 <p align="center">
-📊 Dataset: Fashion-MNIST | 🧠 Model: VGG16 | ⚡ Framework: PyTorch
+ Dataset: Fashion-MNIST |  Model: VGG16 |  Framework: PyTorch
 </p>
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements an **image classification model** using **transfer learning with the VGG16 architecture** to classify clothing images from the **Fashion-MNIST dataset**.
 
@@ -20,7 +20,7 @@ The model learns to classify images into **10 clothing categories** such as T-sh
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The **Fashion-MNIST dataset** is a widely used benchmark dataset for machine learning.
 
@@ -49,7 +49,7 @@ The **Fashion-MNIST dataset** is a widely used benchmark dataset for machine lea
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 The project uses **VGG16**, a deep convolutional neural network pretrained on **ImageNet**.
 
@@ -82,7 +82,7 @@ Linear (10 classes)
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 * Python
 * PyTorch
@@ -93,7 +93,7 @@ Linear (10 classes)
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 1️⃣ Load Dataset
 2️⃣ Visualize Sample Images
@@ -106,7 +106,7 @@ Linear (10 classes)
 
 ---
 
-## 📈 Model Training
+##  Model Training
 
 * Loss Function: **CrossEntropyLoss**
 * Optimizer: **Adam**
@@ -115,7 +115,7 @@ Linear (10 classes)
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 The model is evaluated on the **test dataset** using classification accuracy.
 
@@ -127,7 +127,7 @@ Test Accuracy: XX%
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 fashion-mnist-classification-vgg16
@@ -143,7 +143,7 @@ fashion-mnist-classification-vgg16
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Use **ResNet or EfficientNet**
 * Apply **data augmentation**
